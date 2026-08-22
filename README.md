@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **xyzhiyuu/xyzhiyuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/](https://i.pinimg.com/1200x/e5/1e/9c/e51e9c9347a96a8237b1a25579a590d0.jpg
+![Cr:https://m.weibo.cn/u/5098662024?jumpfrom=weibocom](https://file.garden/alpKBdqplE9Qfl95/e51e9c9347a96a8237b1a25579a590d0.jpg)
