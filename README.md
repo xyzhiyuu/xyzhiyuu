@@ -19,24 +19,24 @@ Here are some ideas to get you started:
 <hr>
 <p align="center">
 
-<a ef="LINK TO UR PROFILE">
+<a ef="https://github.com/xyzhiyuu">
 <img src="https://img.shields.io/badge/★%20STARS-000000?style=flat-square&labelColor=000000&color=000000">
 </a>
 
-<a ef="LINK TO UR PROFILES REPOSITORIES">
+<a ef="https://github.com/xyzhiyuu?tab=repositories">
 <img src="https://img.shields.io/badge/⌘%20PROJECTS-000000?style=flat-square&labelColor=000000&color=000000">
 </a>
 
-<a href="LINK TO UR PROFILES FOLLOWERS">
+<a href="https://github.com/xyzhiyuu?tab=followers">
 <img src="https://img.shields.io/badge/♟%20FOLLOWERS-000000?style=flat-square&labelColor=000000&color=000000">
 </a>
 
-<a href="ANY LINK U WANT">
-<img src="https://img.shields.io/badge/★%20BUTTON TEXT HERE-000000?style=flat-square&labelColor=000000&color=000000">
+<a href="https://toyhou.se/Zhi-Yu">
+<img src="https://img.shields.io/badge/★%20TOYHOUSE-000000?style=flat-square&labelColor=000000&color=000000">
 </a>
 
-<a href="ANY LINK U WANT">
-<img src="https://img.shields.io/badge/★%20BUTTON TEXT HERE-000000?style=flat-square&labelColor=000000&color=000000">
+<a href="https://github.com/jairosghquled">
+<img src="https://img.shields.io/badge/★%20CODE CREDITS-000000?style=flat-square&labelColor=000000&color=000000">
 </a>
 
 </p>
@@ -44,9 +44,10 @@ Here are some ideas to get you started:
 <h2 align="center"><em>About me</em></h2>
 
 <p align="left">
-  <img src="pfp.jpg" width="180" align="right">
+  <img src="https://file.garden/alpKBdqplE9Qfl95/679d04fa58e6ff3431c0bb2d9f644772.jpg" width="180" align="right">
 
-  introduction texttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttext
+  <p align="center">
+  WIP lalala texttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttext
   <p align="center">
       introduction texttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttext
   </p>
@@ -54,7 +55,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h2 align="center"><em>Projects & Stuff idfk</em></h2>
+<h2 align="center"><em>Super Cool Friends/Moots</em></h2>
 
 <p align="center">
   
@@ -105,5 +106,5 @@ Here are some ideas to get you started:
 <h2 align="center"><em>Statistics</em></h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jairosghquled&theme=github-dark&hide_border=true&area=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xyzhiyuu&theme=github-dark&hide_border=true&area=true">
 </p>
