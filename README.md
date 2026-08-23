@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   <p align="center">
       <strong>Interests and Likes n Shi</strong>
     <p align="center">
-    I love Genshin Impact and HSR so much, I can probably talk for hours about both of them so if you want to...I'm always willing yk.. But aside from that, I like Omori, MDZS, BSD, rock and alt music in general, and a lot more!! I absolutely adore my friends and moots, and getting to meet new people!! However, please note, I do block freely for my own comfort, so please note that I DO NOT want people of the following to interact with me ; <strong>basic DNI, proshippers, weirdly obsessed with bl or gl (especially if you're not in the community yourself), and anyone under 13.</strong> And even if you do not apply to my DNI, please IWC unless you are already a friend/exception if you're the following ; <strong>20+, regiment people in general, Ex-Friends.</strong>
+    I love Genshin Impact and HSR so much, I can probably talk for hours about both of them so if you want to...I'm always willing yk.. But aside from that, I like Omori, MDZS, BSD, n alt music in general, plus a lot more!! I absolutely adore my friends and moots, and getting to meet new people!! However, please note; I do block freely for my own comfort. I DO NOT want people of the following to interact with me ; <strong>basic DNI, proshippers, weirdly obsessed with bl or gl (especially if you're not in the community yourself), and anyone under 13.</strong> And even if you do not apply to my DNI, please IWC unless you are already a friend/exception if you're the following ; <strong>20+, regiment people in general, Ex-Friends.</strong>
   </p>
 </p>
 
