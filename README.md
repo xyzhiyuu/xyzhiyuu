@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <hr>
 <p align="center">
 
-<a ef="https://github.com/xyzhiyuu">
+<a ef="https://github.com/xyzhiyuu?tab=stars">
 <img src="https://img.shields.io/badge/★%20STARS-000000?style=flat-square&labelColor=000000&color=000000">
 </a>
 
@@ -59,12 +59,12 @@ Here are some ideas to get you started:
 
 <p align="center">
   
-<a href="ANY LINK U WANT">
-<img src="https://img.shields.io/badge/★%20BUTTON TEXT HERE-000000?style=flat-square&labelColor=000000&color=000000">
+<a href="https://github.com/0tsukaresummer">
+<img src="https://img.shields.io/badge/★%20LUKA-000000?style=flat-square&labelColor=000000&color=000000">
 </a>
 
-<a href="ANY LINK U WANT">
-<img src="https://img.shields.io/badge/★%20BUTTON TEXT HERE-000000?style=flat-square&labelColor=000000&color=000000">
+<a href="https://github.com/shotgunsinners">
+<img src="https://img.shields.io/badge/★%20ADAM/KAE-000000?style=flat-square&labelColor=000000&color=000000">
 </a>
 
 <a href="ANY LINK U WANT">
