@@ -47,9 +47,9 @@ Here are some ideas to get you started:
   <img src="https://file.garden/alpKBdqplE9Qfl95/679d04fa58e6ff3431c0bb2d9f644772.jpg" width="180" align="right">
 
   <p align="center">
-  WIP lalala texttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttext
+  Intro !! Hihi I'm Zhiyu, or zhi!! My friends / moots will most likely call me by other names, but you can ignore them ok? I am an artist and character designer, and also an absolute no lifer on toyhouse and ponytown!! I'm very friendly and talkative if you're not an asshole or someone I'm not comfortbale with, so please, feel free to talk to me!! Uhhhmmm yeah I think thats it!!
   <p align="center">
-      introduction texttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttext
+      Interests and Likes n Shi I love Genshin Impact and HSR so much, I can probably talk for hours about both of them so if you want to...I'm always willing yk.. But aside from that, I like Omori, MDZS, BSD, rock and alt music in general, and a lot more!! I absolutely adore my friends and moots, and getting to meet new people!! However, please note, I do block freely for my own comfort, so please note that I DO NOT want people of the following to interact with me ; <strong>basic DNI, proshippers, weirdly obsessed with bl or gl (especially if you're not in the community yourself), and anyone under 13.</strong> Aside from this, please IWC unless you are already a friend/exception if you're the following ; <strong>20+, regiment people in general, Ex-Friends.</strong>
   </p>
 </p>
 
@@ -67,8 +67,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/★%20ADAM/KAE-000000?style=flat-square&labelColor=000000&color=000000">
 </a>
 
-<a href="ANY LINK U WANT">
-<img src="https://img.shields.io/badge/★%20BUTTON TEXT HERE-000000?style=flat-square&labelColor=000000&color=000000">
+<a href="https://github.com/jairosghquled?tab=following">
+<img src="https://img.shields.io/badge/★%20Jairo-000000?style=flat-square&labelColor=000000&color=000000">
 </a>
 
 <a href="ANY LINK U WANT">
