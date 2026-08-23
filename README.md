@@ -69,12 +69,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/★%20ADAM/KAE-000000?style=flat-square&labelColor=000000&color=000000">
 </a>
 
-<a href="https://github.com/jairosghquled?tab=following">
+<a href="https://github.com/jairosghquled">
 <img src="https://img.shields.io/badge/★%20Jairo-000000?style=flat-square&labelColor=000000&color=000000">
 </a>
 
-<a href="ANY LINK U WANT">
-<img src="https://img.shields.io/badge/★%20BUTTON TEXT HERE-000000?style=flat-square&labelColor=000000&color=000000">
+<a href="https://github.com/r4yla">
+<img src="https://img.shields.io/badge/★%20Callum-000000?style=flat-square&labelColor=000000&color=000000">
 </a>
 
 <a href="ANY LINK U WANT">
