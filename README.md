@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <h2 align="center"><em>About me</em></h2>
 
 <p align="left">
-  <img src="https://file.garden/alpKBdqplE9Qfl95/679d04fa58e6ff3431c0bb2d9f644772.jpg" width="440" align="right">
+  <img src="https://file.garden/alpKBdqplE9Qfl95/679d04fa58e6ff3431c0bb2d9f644772.jpg" width="400" align="right">
 
   <p align="center">
   <strong>Intro !! </strong>
