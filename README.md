@@ -44,12 +44,12 @@ Here are some ideas to get you started:
 <h2 align="center"><em>About me</em></h2>
 
 <p align="left">
-  <img src="https://file.garden/alpKBdqplE9Qfl95/679d04fa58e6ff3431c0bb2d9f644772.jpg" width="310" align="right">
+  <img src="https://file.garden/alpKBdqplE9Qfl95/679d04fa58e6ff3431c0bb2d9f644772.jpg" width="360" align="right">
 
   <p align="center">
   <strong>Intro !! </strong>
   <p align="center">
-  Hihi I'm Zhiyu, or zhi!! My friends / moots will most likely call me by other names, but you can ignore them ok? I am an artist and character designer, and also an absolute no lifer on toyhouse and ponytown!! I'm very friendly and talkative if you're not an asshole or someone I'm not comfortbale with, so please, feel free to talk to me!! Uhhhmmm yeah I think thats it!!
+  Hihi I'm Zhiyu, or zhi!! My friends / moots will most likely call me by other names, but you can ignore them ok? I am an artist and character designer, and also an absolute no lifer on toyhouse and ponytown!! I'm very friendly and talkative if you're not an asshole or someone I'm not comfortbale with, so please, feel free to talk to me!!
   <p align="center">
       <strong>Interests and Likes n Shi</strong>
     <p align="center">
