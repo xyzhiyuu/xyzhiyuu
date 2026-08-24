@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <hr>
 <p align="center">
 
-<a ef="https://github.com/xyzhiyuu?tab=stars">
+<a href="https://github.com/xyzhiyuu?tab=stars">
 <img src="https://img.shields.io/badge/★%20STARS-000000?style=flat-square&labelColor=000000&color=000000">
 </a>
 
-<a ef="https://xyzhiyuu.atabook.org/?page=1">
+<a href="https://xyzhiyuu.atabook.org/?page=1">
 <img src="https://img.shields.io/badge/⌘%20ATABOOK-000000?style=flat-square&labelColor=000000&color=000000">
 </a>
 
