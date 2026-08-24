@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <hr>
 <p align="center">
 
-<a href="https://github.com/xyzhiyuu?tab=stars">
-<img src="https://img.shields.io/badge/★%20STARS-000000?style=flat-square&labelColor=000000&color=000000">
+<a href="https://xyzhiyuu.straw.page">
+<img src="https://img.shields.io/badge/★%20STRAWPAGE-000000?style=flat-square&labelColor=000000&color=000000">
 </a>
 
 <a href="https://xyzhiyuu.atabook.org/?page=1">
