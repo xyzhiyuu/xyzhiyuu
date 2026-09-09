@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <h2 align="center"><em>About me</em></h2>
 
 <p align="left">
-  <img src="https://file.garden/alpKBdqplE9Qfl95/Untitled183_20260909172250.png" width="340" align="right">
+  <img src="https://file.garden/alpKBdqplE9Qfl95/Untitled183_20260909172250.png" width="320" align="right">
 
   <p align="center">
   Hihi I'm Zhiyu, or zhi!! My friends / moots will most likely call me by other names, but you can ignore them ok? I am an artist and character designer, and also an absolute no lifer on toyhouse and ponytown!! I'm very friendly and talkative if you're not an asshole or someone I'm not comfortbale with, so please, feel free to talk to me!!
