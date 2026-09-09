@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
   
-![Cr:@fylus_ on hoyolab](https://file.garden/alpKBdqplE9Qfl95/Untitled181_20260909171548.png)
+![Cr:@fylus_ on hoyolab](https://file.garden/alpKBdqplE9Qfl95/Untitled181_20260909171912.png)
 
 <hr>
 <p align="center">
